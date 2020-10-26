@@ -4,9 +4,9 @@ Docker 镜像 : FluffOS v2019 的 Ubuntu 编译环境。
 
 请注意，如果你不想自己编译，可以直接使用以下指令使用镜像：
 
-    docker pull fluffos/fluffos
+    docker pull ntos/fluffos
 
-具体说明请查看：https://hub.docker.com/r/fluffos/fluffos
+具体说明请查看：https://hub.docker.com/r/ntos/fluffos
 
 ### 1. Build compile image
 
